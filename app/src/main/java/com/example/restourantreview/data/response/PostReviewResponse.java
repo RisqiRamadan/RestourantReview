@@ -1,6 +1,5 @@
 package com.example.restourantreview.data.response;
 
-import com.example.restourantreview.data.response.CustomerReviewsItem;
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;

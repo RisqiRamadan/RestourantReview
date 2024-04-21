@@ -7,15 +7,8 @@ public class Restaurant{
 
 	@SerializedName("customerReviews")
 	private List<CustomerReviewsItem> customerReviews;
-
-	@SerializedName("address")
-	private String address;
-
 	@SerializedName("pictureId")
 	private String pictureId;
-
-	@SerializedName("city")
-	private String city;
 
 	@SerializedName("name")
 	private String name;
